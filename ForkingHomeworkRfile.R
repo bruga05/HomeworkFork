@@ -10,3 +10,5 @@ diamonds%>%
   filter(price > 7000 & price < 10000)%>%
   arrange(desc(carat))%>%
   slice(1:20)
+
+# DS413_03/16/2022 -- Jason and Bruno
